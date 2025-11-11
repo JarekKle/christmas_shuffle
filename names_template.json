@@ -1,0 +1,13 @@
+{
+  "attendants": {
+    "User_1": {
+      "nick": "user_1",
+      "id": 100000000000000000,
+      "enabled": true
+    },
+    "User_2": {
+      "nick": "user_2",
+      "id": 200000000000000000,
+      "enabled": false
+    }
+}
